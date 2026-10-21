@@ -10,10 +10,6 @@ Atualmente, estou aprofundando meus conhecimentos em **Programação Orientada a
 
 Busco minha primeira oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, desenvolver novas habilidades e ganhar experiência prática na área de tecnologia.
 
----
-
-## 🌐 Conecte-se comigo | Connect with me
-
 <p align="left">
   <a href="https://github.com/Viniciusrsp">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -25,17 +21,6 @@ Busco minha primeira oportunidade de estágio em desenvolvimento de software par
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-## 🧠 Sobre mim | About Me
-
-- 🎓 Graduando em Ciência da Computação pela UNINOVE.
-- ☕ Foco em Java e Programação Orientada a Objetos.
-- 📚 Estudando desenvolvimento de software por meio de cursos e exercícios práticos.
-- 🗄️ Conhecimentos em SQL, bancos de dados e fundamentos de programação.
-- 🐧 Conhecimentos em Linux e controle de versão com Git e GitHub.
-- 🚀 Em busca de uma oportunidade de estágio em desenvolvimento de software.
 
 ---
 
@@ -64,26 +49,7 @@ Busco minha primeira oportunidade de estágio em desenvolvimento de software par
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viniciusrsp&show_icons=true&theme=tokyonight&include_all_commits=truehide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrsp&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Viniciusrsp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrsp&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
-
----
-
-## 🎯 Objetivos | Goals
-
-- ☕ Aprofundar meus conhecimentos em Java.
-- 🧩 Desenvolver projetos para consolidar os fundamentos de programação.
-- 🗄️ Evoluir meus conhecimentos em SQL e bancos de dados.
-- 🚀 Conquistar uma oportunidade de estágio em desenvolvimento de software.
-- 📚 Aprender novas tecnologias e colaborar com projetos em equipe.
-
----
-
-## 🤝 Vamos nos conectar! | Let's connect!
-
-Acredito que a evolução na tecnologia vem da prática, da curiosidade e do aprendizado contínuo.
-
-Estou aberto a oportunidades de estágio, troca de conhecimentos e conexões com pessoas da área de desenvolvimento de software.
-
-⭐ Fique à vontade para explorar meus repositórios e acompanhar minha jornada na programação!
